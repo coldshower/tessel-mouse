@@ -1,5 +1,5 @@
 # tessel-mouse
-Implementing a mouse with the Tessel and RobotJS
+Implementing a mouse with the Tessel2 and RobotJS
 
 # Prerequisites
 1. Get a Tessel https://tessel.io/ 
